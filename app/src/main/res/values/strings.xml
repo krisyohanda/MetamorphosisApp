@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MetamorphosisApp</string>
+    <string name="desc_meta">Deskripsi: %1$s</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="grid">Grid</string>
+</resources>
